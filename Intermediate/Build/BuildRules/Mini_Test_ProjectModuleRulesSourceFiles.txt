@@ -1,0 +1,3 @@
+/Users/clk/Documents/Unreal Projects/Mini_Test_Project/Source/Mini_Test_Project/Mini_Test_Project.Build.cs
+/Users/clk/Documents/Unreal Projects/Mini_Test_Project/Source/Mini_Test_Project.Target.cs
+/Users/clk/Documents/Unreal Projects/Mini_Test_Project/Source/Mini_Test_ProjectEditor.Target.cs

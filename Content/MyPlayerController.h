@@ -1,0 +1,1 @@
+<syntaxhighlight lang="cpp"> public: UFUNCTION(BlueprintPure, Category = "Hud") float GetObjectScreenRadius(AActor* InActor); </syntaxhighlight>
